@@ -4,7 +4,7 @@ import os
 
 # Web of Science is a software for collecting databases on publications in many different areas.
 # This service is provided by the University of Brasilia but it's website was blocked for my usual chrome driver
-# A selenium controlled Chrome driver was able access the website without restrictions.
+# A selenium controlled Chrome driver was able to access the website without restrictions.
 # This code opens this Chrome Driver
 
 first = 'https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?'
