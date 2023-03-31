@@ -1,0 +1,4 @@
+df,tfidf,K,alpha,eta,coherence
+0.5,0.0075,5,asymmetric,auto,0.455567981
+0.5,0.0075,10,asymmetric,auto,0.50898374
+0.5,0.0075,15,asymmetric,auto,0.513330774
