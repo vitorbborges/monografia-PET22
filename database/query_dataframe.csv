@@ -1,0 +1,26 @@
+﻿Nome,SIGLA,Disponível WoS,Property,Incluído,Query WoS,Tipo
+AAAI Conference on Artificial Intelligence,AAAI,Yes,https://www.aaai.org/Conferences/AAAI/aaai.php,Yes,CF=(AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE),Conferência
+Applied Intelligence,APIN,Yes,https://www.springer.com/journal/10489,Yes,SO=(Applied Intelligence),Jornal
+Applied Soft Computing,WFSC,Yes,http://www.softcomputing.org/,Yes,SO=(Applied Soft Computing),Conferência
+Artificial Intelligence Review,AIR,Yes,https://www.springer.com/journal/10462,Yes,SO=(Artificial Intelligence Review),Jornal
+Computer Vision and Pattern Recognition Conference,IEEE-CVPR,Yes,https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings,Yes,CF=(IEEE Conference on Computer Vision and Pattern Recognition),Conferência
+Conference on Empirical Methods in Natural Language Processing,EMNLP,Yes,https://aclanthology.org/venues/emnlp/,Yes,CF=(Conference on Empirical Methods in Natural Language Processing),Conferência
+Engineering Applications of Artificial Intelligence,EAAI,Yes,https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence,Yes,SO=(Engineering Applications of Artificial Intelligence),Jornal
+European Conference on Computer Vision,ECCV,Yes,https://eccv2022.ecva.net/,Yes,CF=(European Conference on Computer Vision),Conferência
+Expert Systems with Applications,ESA,Yes,https://www.journals.elsevier.com/expert-systems-with-applications,Yes,SO=(Expert Systems with Applications),Jornal
+IEEE Transactions on Fuzzy Systems,IEEE-TFS,Yes,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91,Yes,SO=(IEEE Transactions on Fuzzy Systems),Conferência
+IEEE Transactions on Neural Networks and Learning Systems,IEEE-TNNLS,Yes,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385,Yes,SO=(IEEE Transactions on Neural Networks and Learning Systems),Conferência
+IEEE Transactions on Pattern Analysis and Machine Intelligence,IEEE-TPAMI,Yes,https://www.computer.org/csdl/journal/tp,Yes,SO=(IEEE Transactions on Pattern Analysis and Machine Intelligence),Jornal
+"IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)",IEEE-TSMC-B,Yes,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3477,Yes,"SO=(IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics))",Conferência
+International Conference on Artificial Intelligence and Statistics,AISTATS,Yes,https://aistats.org/,Yes,CF=(International Conference on Artificial Intelligence and Statistics),Conferência
+International Conference on Computer Vision (ICCV),ICCV,Yes,https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings,Yes,CF=(International Conference on Computer Vision),Conferência
+International Conference on Learning Representations,ICLR,No,https://iclr.cc/,Yes,,Conferência
+International Conference on Machine Learning,ICML,Yes,https://icml.cc/,Yes,CF=(International Conference on Machine Learning),Conferência
+International Joint Conferences on Artificial Intelligence Organization,IJCAI,Yes,https://www.ijcai.org/,Yes,PUBL=(IJCAI-INT JOINT CONF ARTIF INTELL),Conferência
+Journal of Machine Learning Research,JMLR,Yes,https://jmlr.csail.mit.edu/,Yes,SO=(Journal of Machine Learning Research),Jornal
+Knowledge-Based Systems,KBS,Yes,https://www.sciencedirect.com/journal/knowledge-based-systems,Yes,SO=(Knowledge-Based Systems),Conferência
+Meeting of the Association for Computational Linguistics (ACL),ACL,Yes,https://aclanthology.org/venues/acl/,Yes,CF=(Meeting of the Association for Computational Linguistics),Conferência
+Neural Computing and Applications,NCA,Yes,https://www.springer.com/journal/521,Yes,SO=(NEURAL COMPUTING & APPLICATIONS),Jornal
+Neural Information Processing Systems,NIPS,Yes,https://nips.cc/,Yes,SO=(ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS),Conferência
+Neural Networks,NN,Yes,https://www.journals.elsevier.com/neural-networks,Yes,SO=(Neural Networks),Jornal
+Neurocomputing,Neurocomputing,Yes,https://conferenceindex.org/conferences/neurocomputing,Yes,SO=(Neurocomputing),Conferência
