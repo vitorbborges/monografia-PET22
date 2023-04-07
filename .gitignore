@@ -1,6 +1,4 @@
-KLD/distributions_1.csv
-KLD/distributions_12.csv
-KLD/distributions_2.csv
-KLD/distributions_3.csv
-KLD/distributions_6.csv
+KLD/
 corpora/25_venues.json
+model/lda_models/*
+!model/lda_models/60_asymmetric_auto_0.5_0.0075*
