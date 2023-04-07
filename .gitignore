@@ -1,4 +1,5 @@
+__pycache__/
 KLD/
 corpora/25_venues.json
-model/lda_models/
-#!model/lda_models/60_asymmetric_auto_0.5_0.0075*
+models/lda_models/*
+!models/lda_models/60_asymmetric_auto_0.5_0.0075*
