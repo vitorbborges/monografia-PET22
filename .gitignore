@@ -3,4 +3,7 @@ KLD/
 corpora/25_venues.json
 models/lda_models/*
 !models/lda_models/60_asymmetric_auto_0.5_0.0075*
+models/lda_models_vis/*
+!models/lda_models_vis/60_asymmetric_auto_0.5_0.0075.html
 models.tar.xz
+
